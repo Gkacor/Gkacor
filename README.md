@@ -3,7 +3,7 @@
 - 👨‍🎓 Estudante de Engenharia de Software  
 - 🙇‍♂️ Estou em busca de um estágio/vaga junior!
 - 🌍 Sou formado em Relações Internacionais!   
-- 👔 Me chame no linkedin!
+- 👔 Me chame pelo linkedin ou e-mail!
 ## 
 <div align="left">
   <a href="https://github.com/Gkacor">
