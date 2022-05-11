@@ -1,9 +1,8 @@
-# Olá!
+# Olá, tudo bem?
 
-- 👨‍🎓 Estudante de Engenharia de Software  
-- 🙇‍♂️ Estou em busca de um estágio/vaga junior!
-- 🌍 Sou formado em Relações Internacionais!   
-- 👔 Me chame pelo linkedin ou e-mail!
+- 👨‍🎓 Estudante de Engenharia de Software, sempre evoluindo!  
+- 🌍 Curiosidade: Sou formado em Relações Internacionais, outra área que também sou apaixonado!   
+- 📋 início da jornada em programação: dez/2021.
 ## 
 <div align="left">
   <a href="https://github.com/Gkacor">
