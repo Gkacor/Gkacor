@@ -3,6 +3,7 @@
 - 👨‍🎓 Estudante de Engenharia de Software, sempre evoluindo!  
 - 🌍 Curiosidade: Sou formado em Relações Internacionais, outra área que também sou apaixonado!   
 - 📋 início da jornada em programação: dez/2021.
+
 ## 
 <div align="left">
   <a href="https://github.com/Gkacor">
